@@ -5,4 +5,4 @@
 
 ### Example of usage:
 
-<img src="images/1.jpg" height=650 width=600>
+<img src="images/1.jpg" height=650 width=900>
