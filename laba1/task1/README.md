@@ -19,5 +19,5 @@ After 3nd fork() call (8 processes):
 
 <img src="images/3.jpg" height=650 width=900>
 
-After n fork() calls we have 2^n processes, coz each process calling next fork(). First process is out script.
+After n fork() calls we have 2^n processes, coz each process calling next fork(). First process is our script.
 
