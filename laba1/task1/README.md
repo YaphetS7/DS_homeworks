@@ -5,6 +5,8 @@
 
 ### Output:
 
+* execute pstree command:
+
 After 1st fork() call (2 processes):
 
 <img src="images/1.jpg" height=650 width=600>
