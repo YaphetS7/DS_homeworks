@@ -5,4 +5,3 @@
 
 ### Output of all commands in ex4.txt
 
----
