@@ -4,7 +4,7 @@
 
 ### For build run the command:
 
-* docker build --build-arg user_name=<daniil> --build-arg password=<password> --build-arg admin_email=<email> -t brat .
+* docker build --build-arg user_name=USERNAME --build-arg password=PASSWORD --build-arg admin_email=EMAIL -t brat .
   
   
 ### For start run the command:
