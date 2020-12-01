@@ -3,7 +3,7 @@
 # Build and run:
 
 * docker build -t films .
-* docker run -p 5000:5000 films
+* docker run -d -p 5000:5000 films
 
 # Examples of usage (on test data.tsv at this repo):
 
