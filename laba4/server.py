@@ -5,7 +5,7 @@ app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
 
-f = open('data.tsv')
+f = open('data.tsv', encoding='utf-8')
 
 data = f.readlines()
 
@@ -58,4 +58,4 @@ def suggest(topk):
     return jsonify({'ratings':sorted_dict})
 
 
-app.run(debug=True, host='0.0.0.0')
+app.run(debug=True, host='0.0.0.0', port=5000)
